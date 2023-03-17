@@ -1,0 +1,225 @@
+F:\A.S\programming\Iti\C# Project\Examination\ExaminationSytem\bin\Debug\ExaminationSytem.exe.config
+F:\A.S\programming\Iti\C# Project\Examination\ExaminationSytem\bin\Debug\ExaminationSytem.exe
+F:\A.S\programming\Iti\C# Project\Examination\ExaminationSytem\bin\Debug\ExaminationSytem.pdb
+F:\A.S\programming\Iti\C# Project\Examination\ExaminationSytem\bin\Debug\EntityFramework.dll
+F:\A.S\programming\Iti\C# Project\Examination\ExaminationSytem\bin\Debug\EntityFramework.SqlServer.dll
+F:\A.S\programming\Iti\C# Project\Examination\ExaminationSytem\bin\Debug\Guna.UI2.dll
+F:\A.S\programming\Iti\C# Project\Examination\ExaminationSytem\bin\Debug\EntityFramework.xml
+F:\A.S\programming\Iti\C# Project\Examination\ExaminationSytem\bin\Debug\EntityFramework.SqlServer.xml
+F:\A.S\programming\Iti\C# Project\Examination\ExaminationSytem\obj\Debug\ExaminationSystem.csproj.AssemblyReference.cache
+F:\A.S\programming\Iti\C# Project\Examination\ExaminationSytem\obj\Debug\ExaminationSystem.csproj.SuggestedBindingRedirects.cache
+F:\A.S\programming\Iti\C# Project\Examination\ExaminationSytem\obj\Debug\FormProject.Assigant_student.resources
+F:\A.S\programming\Iti\C# Project\Examination\ExaminationSytem\obj\Debug\ExaminationSystem.InstructorForm.resources
+F:\A.S\programming\Iti\C# Project\Examination\ExaminationSytem\obj\Debug\ExaminationSytem.InstructorUC.Add_Questions.resources
+F:\A.S\programming\Iti\C# Project\Examination\ExaminationSytem\obj\Debug\ExaminationSytem.InstructorUC.MakeExam.resources
+F:\A.S\programming\Iti\C# Project\Examination\ExaminationSytem\obj\Debug\ExaminationSytem.Properties.Resources.resources
+F:\A.S\programming\Iti\C# Project\Examination\ExaminationSytem\obj\Debug\FormProject.Show_Result.resources
+F:\A.S\programming\Iti\C# Project\Examination\ExaminationSytem\obj\Debug\ExaminationSystem.csproj.GenerateResource.cache
+F:\A.S\programming\Iti\C# Project\Examination\ExaminationSytem\obj\Debug\ExaminationSystem.csproj.CoreCompileInputs.cache
+F:\A.S\programming\Iti\C# Project\Examination\ExaminationSytem\obj\Debug\ExaminationSystem.csproj.CopyComplete
+F:\A.S\programming\Iti\C# Project\Examination\ExaminationSytem\obj\Debug\ExaminationSytem.exe
+F:\A.S\programming\Iti\C# Project\Examination\ExaminationSytem\obj\Debug\ExaminationSytem.pdb
+F:\A.S\programming\Iti\C# Project\Examination\ExaminationSytem\obj\Debug\ExaminationSytem.Migrations.it.resources
+F:\A.S\programming\Iti\C# Project\Examination\v\ExaminationSytem\bin\Debug\ExaminationSytem.exe.config
+F:\A.S\programming\Iti\C# Project\Examination\v\ExaminationSytem\bin\Debug\ExaminationSytem.exe
+F:\A.S\programming\Iti\C# Project\Examination\v\ExaminationSytem\bin\Debug\ExaminationSytem.pdb
+F:\A.S\programming\Iti\C# Project\Examination\v\ExaminationSytem\bin\Debug\EntityFramework.dll
+F:\A.S\programming\Iti\C# Project\Examination\v\ExaminationSytem\bin\Debug\EntityFramework.SqlServer.dll
+F:\A.S\programming\Iti\C# Project\Examination\v\ExaminationSytem\bin\Debug\EntityFramework.xml
+F:\A.S\programming\Iti\C# Project\Examination\v\ExaminationSytem\bin\Debug\EntityFramework.SqlServer.xml
+F:\A.S\programming\Iti\C# Project\Examination\v\ExaminationSytem\obj\Debug\ExaminationSystem.csproj.AssemblyReference.cache
+F:\A.S\programming\Iti\C# Project\Examination\v\ExaminationSytem\obj\Debug\ExaminationSystem.csproj.SuggestedBindingRedirects.cache
+F:\A.S\programming\Iti\C# Project\Examination\v\ExaminationSytem\obj\Debug\FormProject.Assigant_student.resources
+F:\A.S\programming\Iti\C# Project\Examination\v\ExaminationSytem\obj\Debug\ExaminationSystem.InstructorForm.resources
+F:\A.S\programming\Iti\C# Project\Examination\v\ExaminationSytem\obj\Debug\ExaminationSytem.InstructorUC.Add_Questions.resources
+F:\A.S\programming\Iti\C# Project\Examination\v\ExaminationSytem\obj\Debug\ExaminationSytem.InstructorUC.MakeExam.resources
+F:\A.S\programming\Iti\C# Project\Examination\v\ExaminationSytem\obj\Debug\ExaminationSytem.Migrations.it.resources
+F:\A.S\programming\Iti\C# Project\Examination\v\ExaminationSytem\obj\Debug\ExaminationSytem.Properties.Resources.resources
+F:\A.S\programming\Iti\C# Project\Examination\v\ExaminationSytem\obj\Debug\FormProject.Show_Result.resources
+F:\A.S\programming\Iti\C# Project\Examination\v\ExaminationSytem\obj\Debug\ExaminationSystem.csproj.GenerateResource.cache
+F:\A.S\programming\Iti\C# Project\Examination\v\ExaminationSytem\obj\Debug\ExaminationSystem.csproj.CoreCompileInputs.cache
+F:\A.S\programming\Iti\C# Project\Examination\v\ExaminationSytem\obj\Debug\ExaminationSystem.csproj.CopyComplete
+F:\A.S\programming\Iti\C# Project\Examination\v\ExaminationSytem\obj\Debug\ExaminationSytem.exe
+F:\A.S\programming\Iti\C# Project\Examination\v\ExaminationSytem\obj\Debug\ExaminationSytem.pdb
+F:\A.S\programming\Iti\C# Project\Examination\v\ExaminationSytem\obj\Debug\ExaminationSytem.Migrations.it1.resources
+F:\A.S\programming\Iti\C# Project\Examination\v\ExaminationSytem\obj\Debug\ExaminationSytem.Migrations.it2.resources
+F:\A.S\programming\Iti\C# Project\Examination\v\ExaminationSytem\obj\Debug\ExaminationSytem.Migrations.it3.resources
+F:\A.S\programming\Iti\C# Project\Examination\v\ExaminationSytem\obj\Debug\ExaminationSytem.Migrations.it4.resources
+F:\A.S\programming\Iti\C# Project\Examination\v\ExaminationSytem\obj\Debug\ExaminationSytem.Migrations.it5.resources
+F:\A.S\programming\Iti\C# Project\Examination\v\ExaminationSytem\obj\Debug\ExaminationSytem.ExamForm.resources
+F:\A.S\programming\Iti\C# Project\Examination\v\ExaminationSytem\obj\Debug\ExaminationSystem.ManagerForm.resources
+F:\A.S\programming\Iti\C# Project\Examination\v\ExaminationSytem\obj\Debug\ExaminationSystem.LoginForm.resources
+F:\A.S\programming\Iti\C# Project\Examination\v\ExaminationSytem\obj\Debug\ExaminationSystem.ManageCourse.resources
+F:\A.S\programming\Iti\C# Project\Examination\v\ExaminationSytem\obj\Debug\ExaminationSystem.ManageInstructor.resources
+F:\A.S\programming\Iti\C# Project\Examination\v\ExaminationSytem\obj\Debug\ExaminationSystem.ManageStudent.resources
+F:\A.S\programming\Iti\C# Project\Examination\v\ExaminationSytem\obj\Debug\ExaminationSystem.questionForm2.resources
+F:\A.S\programming\Iti\C# Project\Examination\v\ExaminationSytem\obj\Debug\ExaminationSystem.questionsForm1.resources
+F:\A.S\programming\Iti\C# Project\Examination\v\ExaminationSytem\obj\Debug\ExaminationSystem.startTime.resources
+F:\A.S\programming\Iti\C# Project\Examination\v\ExaminationSytem\obj\Debug\ExaminationSytem.Migrations.it6.resources
+F:\A.S\programming\Iti\C# Project\Examination\v\ExaminationSytem\obj\Debug\ExaminationSytem.Migrations.it7.resources
+F:\A.S\programming\Iti\C# Project\Examination\v\ExaminationSytem\obj\Debug\ExaminationSytem.Migrations.it8.resources
+F:\A.S\programming\Iti\C# Project\Examination\v\ExaminationSytem\obj\Debug\ExaminationSytem.Migrations.it9.resources
+F:\A.S\programming\Iti\C# Project\Examination\v\ExaminationSytem\obj\Debug\ExaminationSytem.Migrations.it10.resources
+F:\A.S\programming\Iti\C# Project\Examination\v\ExaminationSytem\obj\Debug\ExaminationSytem.Migrations.it11.resources
+F:\A.S\programming\Iti\C# Project\Examination\v\ExaminationSytem\obj\Debug\ExaminationSytem.Migrations.it12.resources
+F:\A.S\programming\Iti\C# Project\Examination\v\ExaminationSytem\obj\Debug\ExaminationSytem.Migrations.it13.resources
+F:\A.S\programming\Iti\C# Project\Examination\v\ExaminationSytem\obj\Debug\ExaminationSytem.Migrations.it14.resources
+F:\A.S\programming\Iti\C# Project\Examination\v\ExaminationSytem\obj\Debug\ExaminationSytem.Migrations.it15.resources
+F:\A.S\programming\Iti\C# Project\Examination\v\ExaminationSytem\obj\Debug\ExaminationSytem.Migrations.it16.resources
+C:\Users\hp\Downloads\ExaminationSytem_5_3_2023\bin\Debug\ExaminationSytem.exe.config
+C:\Users\hp\Downloads\ExaminationSytem_5_3_2023\bin\Debug\ExaminationSytem.exe
+C:\Users\hp\Downloads\ExaminationSytem_5_3_2023\bin\Debug\ExaminationSytem.pdb
+C:\Users\hp\Downloads\ExaminationSytem_5_3_2023\bin\Debug\EntityFramework.dll
+C:\Users\hp\Downloads\ExaminationSytem_5_3_2023\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\hp\Downloads\ExaminationSytem_5_3_2023\bin\Debug\EntityFramework.xml
+C:\Users\hp\Downloads\ExaminationSytem_5_3_2023\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\hp\Downloads\ExaminationSytem_5_3_2023\obj\Debug\ExaminationSystem.csproj.AssemblyReference.cache
+C:\Users\hp\Downloads\ExaminationSytem_5_3_2023\obj\Debug\ExaminationSystem.csproj.SuggestedBindingRedirects.cache
+C:\Users\hp\Downloads\ExaminationSytem_5_3_2023\obj\Debug\FormProject.Assigant_student.resources
+C:\Users\hp\Downloads\ExaminationSytem_5_3_2023\obj\Debug\ExaminationSytem.ExamForm.resources
+C:\Users\hp\Downloads\ExaminationSytem_5_3_2023\obj\Debug\ExaminationSystem.ManagerForm.resources
+C:\Users\hp\Downloads\ExaminationSytem_5_3_2023\obj\Debug\ExaminationSystem.InstructorForm.resources
+C:\Users\hp\Downloads\ExaminationSytem_5_3_2023\obj\Debug\ExaminationSytem.InstructorUC.Add_Questions.resources
+C:\Users\hp\Downloads\ExaminationSytem_5_3_2023\obj\Debug\ExaminationSytem.InstructorUC.MakeExam.resources
+C:\Users\hp\Downloads\ExaminationSytem_5_3_2023\obj\Debug\ExaminationSystem.LoginForm.resources
+C:\Users\hp\Downloads\ExaminationSytem_5_3_2023\obj\Debug\ExaminationSystem.ManageCourse.resources
+C:\Users\hp\Downloads\ExaminationSytem_5_3_2023\obj\Debug\ExaminationSystem.ManageInstructor.resources
+C:\Users\hp\Downloads\ExaminationSytem_5_3_2023\obj\Debug\ExaminationSystem.ManageStudent.resources
+C:\Users\hp\Downloads\ExaminationSytem_5_3_2023\obj\Debug\ExaminationSytem.Properties.Resources.resources
+C:\Users\hp\Downloads\ExaminationSytem_5_3_2023\obj\Debug\ExaminationSystem.questionForm2.resources
+C:\Users\hp\Downloads\ExaminationSytem_5_3_2023\obj\Debug\ExaminationSystem.questionsForm1.resources
+C:\Users\hp\Downloads\ExaminationSytem_5_3_2023\obj\Debug\FormProject.Show_Result.resources
+C:\Users\hp\Downloads\ExaminationSytem_5_3_2023\obj\Debug\ExaminationSystem.startTime.resources
+C:\Users\hp\Downloads\ExaminationSytem_5_3_2023\obj\Debug\ExaminationSystem.csproj.GenerateResource.cache
+C:\Users\hp\Downloads\ExaminationSytem_5_3_2023\obj\Debug\ExaminationSystem.csproj.CoreCompileInputs.cache
+C:\Users\hp\Downloads\ExaminationSytem_5_3_2023\obj\Debug\ExaminationSystem.csproj.CopyComplete
+C:\Users\hp\Downloads\ExaminationSytem_5_3_2023\obj\Debug\ExaminationSytem.exe
+C:\Users\hp\Downloads\ExaminationSytem_5_3_2023\obj\Debug\ExaminationSytem.pdb
+C:\Users\hp\Downloads\ExaminationSytem_5_3_2023\obj\Debug\ExaminationSytem.Migrations._new.resources
+C:\Users\hp\Downloads\ExaminationSytem_5_3_2023\obj\Debug\ExaminationSytem.Migrations.neww.resources
+C:\Users\hp\Downloads\ExaminationSytem_5_3_2023\obj\Debug\ExaminationSytem.Migrations.neww2.resources
+C:\Users\hp\Downloads\ExaminationSytem_5_3_2023\obj\Debug\ExaminationSytem.Migrations.neww3.resources
+F:\A.S\programming\Iti\C# Project\Examination\v\ExaminationSytem_5_3_2023\bin\Debug\ExaminationSytem.exe.config
+F:\A.S\programming\Iti\C# Project\Examination\v\ExaminationSytem_5_3_2023\bin\Debug\ExaminationSytem.exe
+F:\A.S\programming\Iti\C# Project\Examination\v\ExaminationSytem_5_3_2023\bin\Debug\ExaminationSytem.pdb
+F:\A.S\programming\Iti\C# Project\Examination\v\ExaminationSytem_5_3_2023\bin\Debug\EntityFramework.dll
+F:\A.S\programming\Iti\C# Project\Examination\v\ExaminationSytem_5_3_2023\bin\Debug\EntityFramework.SqlServer.dll
+F:\A.S\programming\Iti\C# Project\Examination\v\ExaminationSytem_5_3_2023\bin\Debug\EntityFramework.xml
+F:\A.S\programming\Iti\C# Project\Examination\v\ExaminationSytem_5_3_2023\bin\Debug\EntityFramework.SqlServer.xml
+F:\A.S\programming\Iti\C# Project\Examination\v\ExaminationSytem_5_3_2023\obj\Debug\ExaminationSystem.csproj.AssemblyReference.cache
+F:\A.S\programming\Iti\C# Project\Examination\v\ExaminationSytem_5_3_2023\obj\Debug\ExaminationSystem.csproj.SuggestedBindingRedirects.cache
+F:\A.S\programming\Iti\C# Project\Examination\v\ExaminationSytem_5_3_2023\obj\Debug\FormProject.Assigant_student.resources
+F:\A.S\programming\Iti\C# Project\Examination\v\ExaminationSytem_5_3_2023\obj\Debug\ExaminationSytem.ExamForm.resources
+F:\A.S\programming\Iti\C# Project\Examination\v\ExaminationSytem_5_3_2023\obj\Debug\ExaminationSystem.ManagerForm.resources
+F:\A.S\programming\Iti\C# Project\Examination\v\ExaminationSytem_5_3_2023\obj\Debug\ExaminationSystem.InstructorForm.resources
+F:\A.S\programming\Iti\C# Project\Examination\v\ExaminationSytem_5_3_2023\obj\Debug\ExaminationSytem.InstructorUC.Add_Questions.resources
+F:\A.S\programming\Iti\C# Project\Examination\v\ExaminationSytem_5_3_2023\obj\Debug\ExaminationSytem.InstructorUC.MakeExam.resources
+F:\A.S\programming\Iti\C# Project\Examination\v\ExaminationSytem_5_3_2023\obj\Debug\ExaminationSystem.LoginForm.resources
+F:\A.S\programming\Iti\C# Project\Examination\v\ExaminationSytem_5_3_2023\obj\Debug\ExaminationSystem.ManageCourse.resources
+F:\A.S\programming\Iti\C# Project\Examination\v\ExaminationSytem_5_3_2023\obj\Debug\ExaminationSystem.ManageInstructor.resources
+F:\A.S\programming\Iti\C# Project\Examination\v\ExaminationSytem_5_3_2023\obj\Debug\ExaminationSystem.ManageStudent.resources
+F:\A.S\programming\Iti\C# Project\Examination\v\ExaminationSytem_5_3_2023\obj\Debug\ExaminationSytem.Properties.Resources.resources
+F:\A.S\programming\Iti\C# Project\Examination\v\ExaminationSytem_5_3_2023\obj\Debug\ExaminationSystem.questionForm2.resources
+F:\A.S\programming\Iti\C# Project\Examination\v\ExaminationSytem_5_3_2023\obj\Debug\ExaminationSystem.questionsForm1.resources
+F:\A.S\programming\Iti\C# Project\Examination\v\ExaminationSytem_5_3_2023\obj\Debug\FormProject.Show_Result.resources
+F:\A.S\programming\Iti\C# Project\Examination\v\ExaminationSytem_5_3_2023\obj\Debug\ExaminationSystem.startTime.resources
+F:\A.S\programming\Iti\C# Project\Examination\v\ExaminationSytem_5_3_2023\obj\Debug\ExaminationSystem.csproj.GenerateResource.cache
+F:\A.S\programming\Iti\C# Project\Examination\v\ExaminationSytem_5_3_2023\obj\Debug\ExaminationSystem.csproj.CoreCompileInputs.cache
+F:\A.S\programming\Iti\C# Project\Examination\v\ExaminationSytem_5_3_2023\obj\Debug\ExaminationSystem.csproj.CopyComplete
+F:\A.S\programming\Iti\C# Project\Examination\v\ExaminationSytem_5_3_2023\obj\Debug\ExaminationSytem.exe
+F:\A.S\programming\Iti\C# Project\Examination\v\ExaminationSytem_5_3_2023\obj\Debug\ExaminationSytem.pdb
+F:\A.S\programming\Iti\C# Project\Examination\v\ExaminationSytem_5_3_2023\obj\Debug\ExaminationSytem.Migrations.it.resources
+C:\Users\hp\Downloads\New folder\ExaminationSytem_5_3_2023\bin\Debug\ExaminationSytem.exe.config
+C:\Users\hp\Downloads\New folder\ExaminationSytem_5_3_2023\bin\Debug\ExaminationSytem.exe
+C:\Users\hp\Downloads\New folder\ExaminationSytem_5_3_2023\bin\Debug\ExaminationSytem.pdb
+C:\Users\hp\Downloads\New folder\ExaminationSytem_5_3_2023\bin\Debug\EntityFramework.dll
+C:\Users\hp\Downloads\New folder\ExaminationSytem_5_3_2023\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\hp\Downloads\New folder\ExaminationSytem_5_3_2023\bin\Debug\EntityFramework.xml
+C:\Users\hp\Downloads\New folder\ExaminationSytem_5_3_2023\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\hp\Downloads\New folder\ExaminationSytem_5_3_2023\obj\Debug\ExaminationSystem.csproj.AssemblyReference.cache
+C:\Users\hp\Downloads\New folder\ExaminationSytem_5_3_2023\obj\Debug\ExaminationSystem.csproj.SuggestedBindingRedirects.cache
+C:\Users\hp\Downloads\New folder\ExaminationSytem_5_3_2023\obj\Debug\FormProject.Assigant_student.resources
+C:\Users\hp\Downloads\New folder\ExaminationSytem_5_3_2023\obj\Debug\ExaminationSytem.ExamForm.resources
+C:\Users\hp\Downloads\New folder\ExaminationSytem_5_3_2023\obj\Debug\ExaminationSystem.ManagerForm.resources
+C:\Users\hp\Downloads\New folder\ExaminationSytem_5_3_2023\obj\Debug\ExaminationSystem.InstructorForm.resources
+C:\Users\hp\Downloads\New folder\ExaminationSytem_5_3_2023\obj\Debug\ExaminationSytem.InstructorUC.Add_Questions.resources
+C:\Users\hp\Downloads\New folder\ExaminationSytem_5_3_2023\obj\Debug\ExaminationSytem.InstructorUC.MakeExam.resources
+C:\Users\hp\Downloads\New folder\ExaminationSytem_5_3_2023\obj\Debug\ExaminationSystem.LoginForm.resources
+C:\Users\hp\Downloads\New folder\ExaminationSytem_5_3_2023\obj\Debug\ExaminationSystem.ManageCourse.resources
+C:\Users\hp\Downloads\New folder\ExaminationSytem_5_3_2023\obj\Debug\ExaminationSystem.ManageInstructor.resources
+C:\Users\hp\Downloads\New folder\ExaminationSytem_5_3_2023\obj\Debug\ExaminationSystem.ManageStudent.resources
+C:\Users\hp\Downloads\New folder\ExaminationSytem_5_3_2023\obj\Debug\ExaminationSytem.Properties.Resources.resources
+C:\Users\hp\Downloads\New folder\ExaminationSytem_5_3_2023\obj\Debug\ExaminationSystem.questionForm2.resources
+C:\Users\hp\Downloads\New folder\ExaminationSytem_5_3_2023\obj\Debug\ExaminationSystem.questionsForm1.resources
+C:\Users\hp\Downloads\New folder\ExaminationSytem_5_3_2023\obj\Debug\FormProject.Show_Result.resources
+C:\Users\hp\Downloads\New folder\ExaminationSytem_5_3_2023\obj\Debug\ExaminationSystem.startTime.resources
+C:\Users\hp\Downloads\New folder\ExaminationSytem_5_3_2023\obj\Debug\ExaminationSystem.csproj.GenerateResource.cache
+C:\Users\hp\Downloads\New folder\ExaminationSytem_5_3_2023\obj\Debug\ExaminationSystem.csproj.CoreCompileInputs.cache
+C:\Users\hp\Downloads\New folder\ExaminationSytem_5_3_2023\obj\Debug\ExaminationSystem.csproj.CopyComplete
+C:\Users\hp\Downloads\New folder\ExaminationSytem_5_3_2023\obj\Debug\ExaminationSytem.exe
+C:\Users\hp\Downloads\New folder\ExaminationSytem_5_3_2023\obj\Debug\ExaminationSytem.pdb
+C:\Users\hp\Downloads\New folder\ExaminationSytem_5_3_2023\obj\Debug\ExaminationSytem.Migrations.newone2.resources
+F:\A.S\programming\Iti\C# Project\Examination\v\ExaminationSytem_5_3_2023_last\ExaminationSytem_5_3_2023_last\bin\Debug\ExaminationSytem.exe.config
+F:\A.S\programming\Iti\C# Project\Examination\v\ExaminationSytem_5_3_2023_last\ExaminationSytem_5_3_2023_last\bin\Debug\ExaminationSytem.exe
+F:\A.S\programming\Iti\C# Project\Examination\v\ExaminationSytem_5_3_2023_last\ExaminationSytem_5_3_2023_last\bin\Debug\ExaminationSytem.pdb
+F:\A.S\programming\Iti\C# Project\Examination\v\ExaminationSytem_5_3_2023_last\ExaminationSytem_5_3_2023_last\bin\Debug\EntityFramework.dll
+F:\A.S\programming\Iti\C# Project\Examination\v\ExaminationSytem_5_3_2023_last\ExaminationSytem_5_3_2023_last\bin\Debug\EntityFramework.SqlServer.dll
+F:\A.S\programming\Iti\C# Project\Examination\v\ExaminationSytem_5_3_2023_last\ExaminationSytem_5_3_2023_last\bin\Debug\EntityFramework.xml
+F:\A.S\programming\Iti\C# Project\Examination\v\ExaminationSytem_5_3_2023_last\ExaminationSytem_5_3_2023_last\bin\Debug\EntityFramework.SqlServer.xml
+F:\A.S\programming\Iti\C# Project\Examination\v\ExaminationSytem_5_3_2023_last\ExaminationSytem_5_3_2023_last\obj\Debug\ExaminationSystem.csproj.AssemblyReference.cache
+F:\A.S\programming\Iti\C# Project\Examination\v\ExaminationSytem_5_3_2023_last\ExaminationSytem_5_3_2023_last\obj\Debug\ExaminationSystem.csproj.SuggestedBindingRedirects.cache
+F:\A.S\programming\Iti\C# Project\Examination\v\ExaminationSytem_5_3_2023_last\ExaminationSytem_5_3_2023_last\obj\Debug\FormProject.Assigant_student.resources
+F:\A.S\programming\Iti\C# Project\Examination\v\ExaminationSytem_5_3_2023_last\ExaminationSytem_5_3_2023_last\obj\Debug\ExaminationSytem.ExamForm.resources
+F:\A.S\programming\Iti\C# Project\Examination\v\ExaminationSytem_5_3_2023_last\ExaminationSytem_5_3_2023_last\obj\Debug\ExaminationSystem.ManagerForm.resources
+F:\A.S\programming\Iti\C# Project\Examination\v\ExaminationSytem_5_3_2023_last\ExaminationSytem_5_3_2023_last\obj\Debug\ExaminationSystem.InstructorForm.resources
+F:\A.S\programming\Iti\C# Project\Examination\v\ExaminationSytem_5_3_2023_last\ExaminationSytem_5_3_2023_last\obj\Debug\ExaminationSytem.InstructorUC.Add_Questions.resources
+F:\A.S\programming\Iti\C# Project\Examination\v\ExaminationSytem_5_3_2023_last\ExaminationSytem_5_3_2023_last\obj\Debug\ExaminationSytem.InstructorUC.MakeExam.resources
+F:\A.S\programming\Iti\C# Project\Examination\v\ExaminationSytem_5_3_2023_last\ExaminationSytem_5_3_2023_last\obj\Debug\ExaminationSystem.LoginForm.resources
+F:\A.S\programming\Iti\C# Project\Examination\v\ExaminationSytem_5_3_2023_last\ExaminationSytem_5_3_2023_last\obj\Debug\ExaminationSystem.ManageCourse.resources
+F:\A.S\programming\Iti\C# Project\Examination\v\ExaminationSytem_5_3_2023_last\ExaminationSytem_5_3_2023_last\obj\Debug\ExaminationSystem.ManageInstructor.resources
+F:\A.S\programming\Iti\C# Project\Examination\v\ExaminationSytem_5_3_2023_last\ExaminationSytem_5_3_2023_last\obj\Debug\ExaminationSystem.ManageStudent.resources
+F:\A.S\programming\Iti\C# Project\Examination\v\ExaminationSytem_5_3_2023_last\ExaminationSytem_5_3_2023_last\obj\Debug\ExaminationSytem.Properties.Resources.resources
+F:\A.S\programming\Iti\C# Project\Examination\v\ExaminationSytem_5_3_2023_last\ExaminationSytem_5_3_2023_last\obj\Debug\ExaminationSystem.questionForm2.resources
+F:\A.S\programming\Iti\C# Project\Examination\v\ExaminationSytem_5_3_2023_last\ExaminationSytem_5_3_2023_last\obj\Debug\ExaminationSystem.questionsForm1.resources
+F:\A.S\programming\Iti\C# Project\Examination\v\ExaminationSytem_5_3_2023_last\ExaminationSytem_5_3_2023_last\obj\Debug\FormProject.Show_Result.resources
+F:\A.S\programming\Iti\C# Project\Examination\v\ExaminationSytem_5_3_2023_last\ExaminationSytem_5_3_2023_last\obj\Debug\ExaminationSystem.startTime.resources
+F:\A.S\programming\Iti\C# Project\Examination\v\ExaminationSytem_5_3_2023_last\ExaminationSytem_5_3_2023_last\obj\Debug\ExaminationSystem.csproj.GenerateResource.cache
+F:\A.S\programming\Iti\C# Project\Examination\v\ExaminationSytem_5_3_2023_last\ExaminationSytem_5_3_2023_last\obj\Debug\ExaminationSystem.csproj.CoreCompileInputs.cache
+F:\A.S\programming\Iti\C# Project\Examination\v\ExaminationSytem_5_3_2023_last\ExaminationSytem_5_3_2023_last\obj\Debug\ExaminationSystem.csproj.CopyComplete
+F:\A.S\programming\Iti\C# Project\Examination\v\ExaminationSytem_5_3_2023_last\ExaminationSytem_5_3_2023_last\obj\Debug\ExaminationSytem.exe
+F:\A.S\programming\Iti\C# Project\Examination\v\ExaminationSytem_5_3_2023_last\ExaminationSytem_5_3_2023_last\obj\Debug\ExaminationSytem.pdb
+F:\A.S\programming\Iti\C# Project\Examination\v\ExaminationSytem_5_3_2023_last\ExaminationSytem_5_3_2023_last\obj\Debug\ExaminationSytem.Migrations.it.resources
+F:\A.S\programming\Iti\C# Project\Examination\v\ExaminationSytem_6_3_2023_last\ExaminationSytem_6_3_2023_last\bin\Debug\ExaminationSytem.exe.config
+F:\A.S\programming\Iti\C# Project\Examination\v\ExaminationSytem_6_3_2023_last\ExaminationSytem_6_3_2023_last\bin\Debug\ExaminationSytem.exe
+F:\A.S\programming\Iti\C# Project\Examination\v\ExaminationSytem_6_3_2023_last\ExaminationSytem_6_3_2023_last\bin\Debug\ExaminationSytem.pdb
+F:\A.S\programming\Iti\C# Project\Examination\v\ExaminationSytem_6_3_2023_last\ExaminationSytem_6_3_2023_last\bin\Debug\EntityFramework.dll
+F:\A.S\programming\Iti\C# Project\Examination\v\ExaminationSytem_6_3_2023_last\ExaminationSytem_6_3_2023_last\bin\Debug\EntityFramework.SqlServer.dll
+F:\A.S\programming\Iti\C# Project\Examination\v\ExaminationSytem_6_3_2023_last\ExaminationSytem_6_3_2023_last\bin\Debug\EntityFramework.xml
+F:\A.S\programming\Iti\C# Project\Examination\v\ExaminationSytem_6_3_2023_last\ExaminationSytem_6_3_2023_last\bin\Debug\EntityFramework.SqlServer.xml
+F:\A.S\programming\Iti\C# Project\Examination\v\ExaminationSytem_6_3_2023_last\ExaminationSytem_6_3_2023_last\obj\Debug\ExaminationSystem.csproj.AssemblyReference.cache
+F:\A.S\programming\Iti\C# Project\Examination\v\ExaminationSytem_6_3_2023_last\ExaminationSytem_6_3_2023_last\obj\Debug\ExaminationSystem.csproj.SuggestedBindingRedirects.cache
+F:\A.S\programming\Iti\C# Project\Examination\v\ExaminationSytem_6_3_2023_last\ExaminationSytem_6_3_2023_last\obj\Debug\FormProject.Assigant_student.resources
+F:\A.S\programming\Iti\C# Project\Examination\v\ExaminationSytem_6_3_2023_last\ExaminationSytem_6_3_2023_last\obj\Debug\ExaminationSytem.ExamForm.resources
+F:\A.S\programming\Iti\C# Project\Examination\v\ExaminationSytem_6_3_2023_last\ExaminationSytem_6_3_2023_last\obj\Debug\ExaminationSystem.ManagerForm.resources
+F:\A.S\programming\Iti\C# Project\Examination\v\ExaminationSytem_6_3_2023_last\ExaminationSytem_6_3_2023_last\obj\Debug\ExaminationSystem.InstructorForm.resources
+F:\A.S\programming\Iti\C# Project\Examination\v\ExaminationSytem_6_3_2023_last\ExaminationSytem_6_3_2023_last\obj\Debug\ExaminationSytem.InstructorUC.Add_Questions.resources
+F:\A.S\programming\Iti\C# Project\Examination\v\ExaminationSytem_6_3_2023_last\ExaminationSytem_6_3_2023_last\obj\Debug\ExaminationSytem.InstructorUC.MakeExam.resources
+F:\A.S\programming\Iti\C# Project\Examination\v\ExaminationSytem_6_3_2023_last\ExaminationSytem_6_3_2023_last\obj\Debug\ExaminationSystem.LoginForm.resources
+F:\A.S\programming\Iti\C# Project\Examination\v\ExaminationSytem_6_3_2023_last\ExaminationSytem_6_3_2023_last\obj\Debug\ExaminationSystem.ManageCourse.resources
+F:\A.S\programming\Iti\C# Project\Examination\v\ExaminationSytem_6_3_2023_last\ExaminationSytem_6_3_2023_last\obj\Debug\ExaminationSystem.ManageInstructor.resources
+F:\A.S\programming\Iti\C# Project\Examination\v\ExaminationSytem_6_3_2023_last\ExaminationSytem_6_3_2023_last\obj\Debug\ExaminationSystem.ManageStudent.resources
+F:\A.S\programming\Iti\C# Project\Examination\v\ExaminationSytem_6_3_2023_last\ExaminationSytem_6_3_2023_last\obj\Debug\ExaminationSytem.Migrations.it.resources
+F:\A.S\programming\Iti\C# Project\Examination\v\ExaminationSytem_6_3_2023_last\ExaminationSytem_6_3_2023_last\obj\Debug\ExaminationSytem.Properties.Resources.resources
+F:\A.S\programming\Iti\C# Project\Examination\v\ExaminationSytem_6_3_2023_last\ExaminationSytem_6_3_2023_last\obj\Debug\ExaminationSystem.questionForm2.resources
+F:\A.S\programming\Iti\C# Project\Examination\v\ExaminationSytem_6_3_2023_last\ExaminationSytem_6_3_2023_last\obj\Debug\ExaminationSystem.questionsForm1.resources
+F:\A.S\programming\Iti\C# Project\Examination\v\ExaminationSytem_6_3_2023_last\ExaminationSytem_6_3_2023_last\obj\Debug\FormProject.Show_Result.resources
+F:\A.S\programming\Iti\C# Project\Examination\v\ExaminationSytem_6_3_2023_last\ExaminationSytem_6_3_2023_last\obj\Debug\ExaminationSystem.startTime.resources
+F:\A.S\programming\Iti\C# Project\Examination\v\ExaminationSytem_6_3_2023_last\ExaminationSytem_6_3_2023_last\obj\Debug\ExaminationSystem.csproj.GenerateResource.cache
+F:\A.S\programming\Iti\C# Project\Examination\v\ExaminationSytem_6_3_2023_last\ExaminationSytem_6_3_2023_last\obj\Debug\ExaminationSystem.csproj.CoreCompileInputs.cache
+F:\A.S\programming\Iti\C# Project\Examination\v\ExaminationSytem_6_3_2023_last\ExaminationSytem_6_3_2023_last\obj\Debug\ExaminationSystem.csproj.CopyComplete
+F:\A.S\programming\Iti\C# Project\Examination\v\ExaminationSytem_6_3_2023_last\ExaminationSytem_6_3_2023_last\obj\Debug\ExaminationSytem.exe
+F:\A.S\programming\Iti\C# Project\Examination\v\ExaminationSytem_6_3_2023_last\ExaminationSytem_6_3_2023_last\obj\Debug\ExaminationSytem.pdb
+F:\A.S\programming\Iti\C# Project\Examination\v\ExaminationSytem_6_3_2023_last\ExaminationSytem_6_3_2023_last\obj\Debug\ExaminationSytem.STA.resources
+F:\A.S\programming\Iti\C# Project\Examination\v\ExaminationSytem_6_3_2023_last\ExaminationSytem_6_3_2023_last\obj\Debug\ExaminationSytem.ManagerSTA.resources
+F:\A.S\programming\Iti\C# Project\Examination\v\ExaminationSytem_6_3_2023_last\ExaminationSytem_6_3_2023_last\obj\Debug\ExaminationSytem.Migrations.it1.resources
+F:\A.S\programming\Iti\C# Project\Examination\v\ExaminationSytem_6_3_2023_last\ExaminationSytem_6_3_2023_last\obj\Debug\ExaminationSytem.ChangePass.resources

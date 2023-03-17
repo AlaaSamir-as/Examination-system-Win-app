@@ -1,0 +1,17 @@
+F:\A.S\programming\Iti\C# Project\Examination\ExaminationSytem\bin\Debug\ExaminationSytem.exe.config
+F:\A.S\programming\Iti\C# Project\Examination\ExaminationSytem\bin\Debug\ExaminationSytem.exe
+F:\A.S\programming\Iti\C# Project\Examination\ExaminationSytem\bin\Debug\ExaminationSytem.pdb
+F:\A.S\programming\Iti\C# Project\Examination\ExaminationSytem\obj\Debug\ExaminationSytem.csproj.AssemblyReference.cache
+F:\A.S\programming\Iti\C# Project\Examination\ExaminationSytem\obj\Debug\ExaminationSytem.csproj.SuggestedBindingRedirects.cache
+F:\A.S\programming\Iti\C# Project\Examination\ExaminationSytem\obj\Debug\ExaminationSytem.Instructor.resources
+F:\A.S\programming\Iti\C# Project\Examination\ExaminationSytem\obj\Debug\ExaminationSytem.Properties.Resources.resources
+F:\A.S\programming\Iti\C# Project\Examination\ExaminationSytem\obj\Debug\ExaminationSytem.csproj.GenerateResource.cache
+F:\A.S\programming\Iti\C# Project\Examination\ExaminationSytem\obj\Debug\ExaminationSytem.csproj.CoreCompileInputs.cache
+F:\A.S\programming\Iti\C# Project\Examination\ExaminationSytem\obj\Debug\ExaminationSytem.exe
+F:\A.S\programming\Iti\C# Project\Examination\ExaminationSytem\obj\Debug\ExaminationSytem.pdb
+F:\A.S\programming\Iti\C# Project\Examination\ExaminationSytem\bin\Debug\Guna.UI2.dll
+F:\A.S\programming\Iti\C# Project\Examination\ExaminationSytem\obj\Debug\ExaminationSytem.InstructorUC.Add_Questions.resources
+F:\A.S\programming\Iti\C# Project\Examination\ExaminationSytem\obj\Debug\ExaminationSytem.InstructorUC.MakeExam.resources
+F:\A.S\programming\Iti\C# Project\Examination\ExaminationSytem\obj\Debug\ExaminationSytem.csproj.CopyComplete
+F:\A.S\programming\Iti\C# Project\Examination\ExaminationSytem\obj\Debug\FormProject.Assigant_student.resources
+F:\A.S\programming\Iti\C# Project\Examination\ExaminationSytem\obj\Debug\FormProject.Show_Result.resources
