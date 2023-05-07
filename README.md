@@ -4,7 +4,7 @@
 Examination system for the Educational center (unofficial)
 It's one of the projects I did at Information Technology Institute (ITI) with my team.
 
-### Software Technology used:
+### Software Technology used :
 - Win Forms app (.NET framework)
 - Microsoft SQL Server.
 
